@@ -1,7 +1,7 @@
-# 13-M-23-1947ADFB-hackadebycybercriminalforce.md
+# 13-M-24-1947ADFB-hackadebycybercriminalforce.md
 
 - **Incident Type:** Account Hacking (Social Media)
-- **Title:** [14-M-23-1947ADFB-hackadebycybercriminalforce.md17-N-GANDAKI-PROV-WEB-crypt3rs.md]
+- **Title:** [13-MR-24-1947ADFB-hackadebycybercriminalforce.md17-N-GANDAKI-PROV-WEB-crypt3rs.md]
 - **Victim:** [1947AD - Facebook Page]
 - **Handler:** [hackadebycybercriminalforce (Jahed Alarm Imon]
 - **Date:** [13 March 2024]
