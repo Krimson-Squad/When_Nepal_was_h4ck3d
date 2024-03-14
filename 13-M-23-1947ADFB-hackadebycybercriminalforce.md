@@ -1,10 +1,10 @@
-# 14-M-23-1947ADFB-hackadebycybercriminalforce.md
+# 13-M-23-1947ADFB-hackadebycybercriminalforce.md
 
 - **Incident Type:** Account Hacking (Social Media)
 - **Title:** [14-M-23-1947ADFB-hackadebycybercriminalforce.md17-N-GANDAKI-PROV-WEB-crypt3rs.md]
 - **Victim:** [1947AD - Facebook Page]
 - **Handler:** [hackadebycybercriminalforce (Jahed Alarm Imon]
-- **Date:** [14 March 2024]
+- **Date:** [13 March 2024]
 - **Description:**
 ```
 
@@ -16,4 +16,5 @@
 
 ---
 ## Source(s)
+- [Ditible/nepali-rock-group-1974-ad-facebook-page-hacked/](https://www.ditible.com/nepali-rock-group-1974-ad-facebook-page-hacked/)
 - [DEV Community Nepal - Facebook Post](https://www.facebook.com/devcommunitynepalofficial/posts/pfbid02fBza3qQgRHURF3CRB941kmqMJdrNm49ss3KUoNyP75RcEgs9C25DtAxVQaz5G7pDl)
