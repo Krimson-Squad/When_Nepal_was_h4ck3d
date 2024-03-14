@@ -1,7 +1,7 @@
-# 06-MR-2024-NEPALI_CONGRESS_FB.md
+# 06-MR-24-NEPALI_CONGRESS_FB.md
 
 - **Incident Type:** Account Hacking (Social Media)
-- **Title:** [06-MR-2024-NEPALI_CONGRESS_FB.md]
+- **Title:** [06-MR-24-NEPALI_CONGRESS_FB.md]
 - **Victim:** [https://www.facebook.com/nepalicongresshq]
 - **Handler:** [N/A]
 - **Date:** [06-MARCH-2024]
